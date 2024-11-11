@@ -3,6 +3,15 @@
 <!--
 **jYoung15628/jYoung15628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/jYoung15628"
+    width="600"
+    height="120"
+  />
+</a>
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
