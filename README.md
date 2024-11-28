@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jYoung15628"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/jYoung15628"
+  width="600"
+  height="300"
+/>
 </a>
